@@ -11,3 +11,9 @@ h1 {
     margin: 10px;
     padding: 10px;
 }
+
+.queryBlue {
+    border: 1px solid blue;
+    background-color: lightblue;
+    font-style: italic;
+}
